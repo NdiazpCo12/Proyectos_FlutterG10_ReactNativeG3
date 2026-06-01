@@ -104,7 +104,7 @@ Características principales de esta versión:
 El análisis comparativo detallado entre ambas aplicaciones se encuentra documentado en el siguiente informe:
 
 **Informe comparativo en PDF:**  
-[Agregar aquí el enlace al documento comparativ](#)
+https://uninorte-my.sharepoint.com/:w:/g/personal/ndiaze_uninorte_edu_co/IQAdqP8KpCeOT6Dx7w949x_5AZ6JuG661zcTKcfb4GAfliM?e=txN8Rd
 
 En dicho informe se evalúan métricas como:
 
